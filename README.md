@@ -6,3 +6,4 @@ _ Milk
 - Whiskers on kittens
 - Bright copper kettles
 - Warm woolen mittens
+- Hot chocolate
