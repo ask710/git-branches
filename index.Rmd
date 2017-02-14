@@ -1,5 +1,5 @@
 ---
-title: "Pie Chart"
+title: "Pie Chart that looks like Pac Man"
 output: html_document
 ---
 
