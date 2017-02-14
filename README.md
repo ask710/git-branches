@@ -3,7 +3,7 @@
 These are a few of my favorite things:
 _ Milk
 - Raindrops on roses
-- Whiskers on kittens
+- Whiskers on lions
 - Bright copper kettles
 - Warm woolen mittens
 - Hot chocolate
